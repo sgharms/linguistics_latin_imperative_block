@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = LinguisticsLatinImperativeBlock::VERSION
   spec.authors       = ["Steven G. Harms"]
   spec.email         = ["steven.harms@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Construct for an imperative block}
   spec.homepage      = ""
   spec.license       = "MIT"
 
